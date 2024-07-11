@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub ! 👋
 
-![Profile Banner](images-libres.lpg)
+![Profile Banner](images-libres.jpg)
 
 [![alsaez's 42 stats](https://badge42.coday.fr/api/v2/clyh421y73687701p42xasvhge/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
 
