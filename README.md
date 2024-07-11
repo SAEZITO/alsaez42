@@ -17,6 +17,8 @@ Salut ! Je suis **alsaez42**, un développeur passionné et étudiant à 42 Perp
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAEZITO&show_icons=true&locale=en&layout=compact" alt="alsaez42" /></p>
 
+
+
 ## Mes Projets 💻
 
 Voici quelques projets sur lesquels j'ai travaillé :
