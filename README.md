@@ -65,8 +65,8 @@ Description de Projet C. Ce projet est une implémentation de...
 
 N'hésitez pas à explorer mes dépôts, ouvrir des issues, ou contribuer à mes projets. Toute contribution est la bienvenue !
 
-![Thank You](images/thank-you.jpg)
+![Thank You](thank-you.jpg)
 
 ---
 
-Merci de visiter mon GitHub ! 🙏
+Merci d'avoir visiter mon GitHub ! 🙏
