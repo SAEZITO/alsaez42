@@ -32,7 +32,7 @@ Description de Projet C. Ce projet est une implémentation de...
 
 ## Statistiques GitHub 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsaez42&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAEZITO&show_icons=true&theme=radical)
 
 ## Projets en Vedette ⭐
 
