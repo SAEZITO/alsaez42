@@ -65,7 +65,7 @@ Description de Projet C. Ce projet est une implémentation de...
 
 N'hésitez pas à explorer mes dépôts, ouvrir des issues, ou contribuer à mes projets. Toute contribution est la bienvenue !
 
-![Thank You](images/thank_you.png)
+![Thank You](images/thank-you.jpg)
 
 ---
 
