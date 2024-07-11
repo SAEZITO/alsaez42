@@ -30,22 +30,6 @@ Salut ! Je m'appelle **Alexandre SAEZ**, un développeur passionné et étudiant
     </a>
 </p>
 
-## Mes Projets 💻
-
-Voici quelques projets sur lesquels j'ai travaillé :
-
-### 1. Projet A
-![Projet A](images/project_a.png)
-Description de Projet A. Ce projet concerne...
-
-### 2. Projet B
-![Projet B](images/project_b.png)
-Description de Projet B. Dans ce projet, j'ai...
-
-### 3. Projet C
-![Projet C](images/project_c.png)
-Description de Projet C. Ce projet est une implémentation de...
-
 ## Mes Compétences 🛠️
 
 - **Langages de programmation** : C, C++, Python, JavaScript
