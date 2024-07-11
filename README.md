@@ -54,9 +54,9 @@ Description de Projet C. Ce projet est une implémentation de...
 
 ## Statistiques GitHub 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsaez42&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAEZITO&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alsaez42&show_icons=true&locale=fr&layout=compact" alt="alsaez42" /></p><br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAEZITO&show_icons=true&locale=fr&layout=compact" alt="alsaez42" /></p><br />
 
 <br /><br /><br />
 <br /><br /><br />
