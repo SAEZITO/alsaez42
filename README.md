@@ -2,7 +2,10 @@
 
 ![Profile Banner](images/banner.png)
 
+[![alsaez's 42 stats](https://badge42.coday.fr/api/v2/clyh421y73687701p42xasvhge/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsaez42&label=Profile%20views&color=0e75b6&style=flat" alt="alsaez42" /> </p>
+
 
 ## Qui suis-je ? 🤔
 
@@ -10,7 +13,6 @@ Salut ! Je m'appelle **Alexandre SAEZ**, un développeur passionné et étudiant
 
 📧 Contactez-moi : [alsaez@student.42perpignan.fr](mailto:alsaez@student.42perpignan.fr)
 
-[![alsaez's 42 stats](https://badge42.coday.fr/api/v2/clyh421y73687701p42xasvhge/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
 
 <h3 align="left">Langages et outils :</h3>
 <p align="left">
