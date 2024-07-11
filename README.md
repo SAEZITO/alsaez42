@@ -15,11 +15,6 @@ Salut ! Je suis **alsaez42**, un développeur passionné et étudiant à 42 Perp
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 🇫🇷 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAEZITO&show_icons=true&locale=en&layout=compact" alt="alsaez42" width="100" height="80" /></p><br />
-
-<br /><br /><br />
-
-
 
 
 ## Mes Projets 💻
@@ -47,6 +42,10 @@ Description de Projet C. Ce projet est une implémentation de...
 ## Statistiques GitHub 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAEZITO&show_icons=true&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAEZITO&show_icons=true&locale=en&layout=compact" alt="alsaez42" /></p><br />
+
+<br /><br /><br />
 
 ## Contribution 📝
 
