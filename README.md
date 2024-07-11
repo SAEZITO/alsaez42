@@ -1,2 +1,86 @@
-# alsaez42
-Presentation of myself
+# Bienvenue sur mon GitHub ! 👋
+
+![Profile Banner](images/banner.png)
+
+## Qui suis-je ? 🤔
+
+Salut ! Je suis **alsaez42**, un développeur passionné et étudiant à 42 Perpignan. J'aime explorer de nouvelles technologies et travailler sur des projets intéressants. Mon objectif est de toujours apprendre et de m'améliorer en tant que développeur.
+
+📧 Contactez-moi : [alsaez@student.42perpignan.fr](mailto:alsaez@student.42perpignan.fr)
+
+## Mes Projets 💻
+
+Voici quelques projets sur lesquels j'ai travaillé :
+
+### 1. Projet A
+![Projet A](images/project_a.png)
+Description de Projet A. Ce projet concerne...
+
+### 2. Projet B
+![Projet B](images/project_b.png)
+Description de Projet B. Dans ce projet, j'ai...
+
+### 3. Projet C
+![Projet C](images/project_c.png)
+Description de Projet C. Ce projet est une implémentation de...
+
+## Mes Compétences 🛠️
+
+- **Langages de programmation** : C, C++, Python, JavaScript
+- **Technologies** : Node.js, React, Git, Docker
+- **Outils** : Visual Studio Code, GitHub, Figma
+
+## Statistiques GitHub 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsaez42&show_icons=true&theme=radical)
+
+## Projets en Vedette ⭐
+
+### 1. [Nom du Projet 1](https://github.com/alsaez42/projet1)
+![Projet 1](images/featured_project1.png)
+Un aperçu rapide de ce projet incroyable.
+
+### 2. [Nom du Projet 2](https://github.com/alsaez42/projet2)
+![Projet 2](images/featured_project2.png)
+Un autre projet remarquable que j'ai réalisé.
+
+## Contribution 📝
+
+N'hésitez pas à explorer mes dépôts, ouvrir des issues, ou contribuer à mes projets. Toute contribution est la bienvenue !
+
+![Thank You](images/thank_you.png)
+
+---
+
+Merci de visiter mon GitHub ! 🙏
+
+<img src="https://github.com/jsoulet42/jsoulet42/blob/main/image3.webp" alt="Nom de l'image" width="900" height="200">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsoulet42&label=Profile%20views&color=0e75b6&style=flat" alt="jsoulet42" /> </p>
+
+
+[![jsoulet's 42 stats](https://badge42.coday.fr/api/v2/clqik6j1n094501p4pvsi59bn/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
+
+
+
+- **jsoulet@student.42perpignan.fr**
+
+- **"I am Groot!"**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/julien soulet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien soulet" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 🇫🇷 </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsoulet42&show_icons=true&locale=en&layout=compact" alt="jsoulet42" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsoulet42&show_icons=true&locale=en" alt="jsoulet42" /></p>
+
+
+
+
+
